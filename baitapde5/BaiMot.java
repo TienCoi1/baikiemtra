@@ -7,7 +7,7 @@ public class BaiMot {
 	    private float sales;
 	    Sanner sc=new Scanner(System.in);
 	    public Saler(){
-	        name="Trung";
+	        name="Tien";
 	        sales=0 }
 	    public float getBonus(float sales){
 	        return sales*0,05;}
@@ -23,3 +23,4 @@ public class BaiMot {
 	
 	
 }
+
